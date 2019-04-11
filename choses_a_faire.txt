@@ -1,0 +1,11 @@
+Choses à faire
+
+-Envoi du mail (ou stockage dans un txt)
+
+-Jeu de tests
+
+-Version mobile
+
+Compte client: code 1111 mdp 1111
+Compte client: code 2222 mdp 2222
+Compte téléprospecteur: code 0000 mdp 0000

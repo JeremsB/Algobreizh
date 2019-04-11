@@ -1,0 +1,6 @@
+label
+{
+	display: block; /* La balise devient de type block. */
+	width: 250px;
+  float: left;
+}
